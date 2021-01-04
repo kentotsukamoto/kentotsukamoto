@@ -11,7 +11,7 @@ class Kento : SoftwareEngineer
 {
     string name     = "Kento Tsukamoto";
     string work     = "Back-end Engineer For Game";
-    string company  = "Samurai-soft | Remote";
+    string company  = "Samurai-soft"; // Remote
     string location = "Tokyo, Japan";
 }
 ```
