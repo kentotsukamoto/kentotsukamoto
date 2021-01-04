@@ -2,7 +2,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kentotsukamoto" alt="kentotsukamoto" /> </p>
 
-Technologies I've been learning and using so far :
+#### :speech_balloon: About me :
+
+```cs
+class Kento : SoftwareEngineer
+{
+    string name     = "Kento Tsukamoto";
+    string work     = "Back-end Engineer For Game";
+    string company  = "Samurai-soft | Remote";
+    string location = "Tokyo, Japan";
+}
+```
+
+#### :computer: Tech stack :
 
 - Programming languages : <br />
     [![CSharp](https://img.shields.io/badge/-CSharp-eee?style=flat&logo=c%20sharp&logoColor=239120)]()
