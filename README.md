@@ -25,13 +25,12 @@ class Kento : SoftwareEngineer
     [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat&logo=php&logoColor=4951aa)]()
     [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat&logo=javascript&logoColor=DD9C25)]()
     [![C](http://img.shields.io/badge/-C-eee?style=flat&logo=c&logoColor=666)]()
-- Client-side : <br />
-    [![Unity](http://img.shields.io/badge/-Unity-eee?style=flat&logo=unity&logoColor=000)]()
-    [![PlayCanvas](http://img.shields.io/badge/-PlayCanvas-eee?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAABhWlDQ1BJQ0MgcHJvZmlsZQAAKJF9kT1Iw1AUhU/TlhapONhBxCFDdbIgKuIoVSyChdJWaNXB5KV/0KQhSXFxFFwLDv4sVh1cnHV1cBUEwR8QNzcnRRcp8b6k0CLGC4/3cd49h/fuA4RWjalmYAJQNcvIJBNivrAqhl7hQwBhBCFKzNRT2cUcPOvrnrqp7uI8y7vvz+pXiiYDfCLxHNMNi3iDeGbT0jnvE0dZRVKIz4nHDbog8SPXZZffOJcdFnhm1Mhl5omjxGK5h+UeZhVDJZ4mjimqRvlC3mWF8xZntdZgnXvyF0aK2kqW67RGkMQSUkhDhIwGqqjBQpx2jRQTGTpPePiHHX+aXDK5qmDkWEAdKiTHD/4Hv2drlqYm3aRIAgi+2PbHKBDaBdpN2/4+tu32CeB/Bq60rr/eAmY/SW92tdgRMLANXFx3NXkPuNwBhp50yZAcyU9LKJWA9zP6pgIweAv0rblz65zj9AHI0ayWb4CDQ2CsTNnrHu8O987t357O/H4ACWtyfeF0LBUAAAAGYktHRAAAAE0AmH/VvpoAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQflAQQIFQuWK/BSAAAAxUlEQVQoz6WSORIBARBFX491hgnFAiXhAAKZC7iBSIJIJERGCYRi5QYOIBU5iCqBfZuaaTFjHT/+v7tf9Zd1NaMEkEFA+YOqQYMeie6MZH/+dog/aIQ4tEs42w32cIFZn/zAGEvB5QxxC1cMEPFZws8Y7c4U97hl18gjgEgE1eudTV6+QwS7N0dNi32zAO7pw0YgVhkRTWc5r5Y4g/L3jA7KRYSoaSFP+N6e6iqYtTHhTI5Tq4h63zLeuQxQL0DlHkJ/dfUGcQhCbhjsDf0AAAAASUVORK5CYII=)]()
 - Front-end : <br />
+    [![Unity](http://img.shields.io/badge/-Unity-eee?style=flat&logo=unity&logoColor=000)]()
     [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat&logo=html5&logoColor=E34F26)]()
     [![CSS3](https://img.shields.io/badge/-CSS-eee?style=flat&logo=css3&logoColor=1572B6)]()
     [![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-eee?style=flat&logo=nuxt.js&logoColor=00C58E)]()
+    [![PlayCanvas](http://img.shields.io/badge/-PlayCanvas-eee?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAABhWlDQ1BJQ0MgcHJvZmlsZQAAKJF9kT1Iw1AUhU/TlhapONhBxCFDdbIgKuIoVSyChdJWaNXB5KV/0KQhSXFxFFwLDv4sVh1cnHV1cBUEwR8QNzcnRRcp8b6k0CLGC4/3cd49h/fuA4RWjalmYAJQNcvIJBNivrAqhl7hQwBhBCFKzNRT2cUcPOvrnrqp7uI8y7vvz+pXiiYDfCLxHNMNi3iDeGbT0jnvE0dZRVKIz4nHDbog8SPXZZffOJcdFnhm1Mhl5omjxGK5h+UeZhVDJZ4mjimqRvlC3mWF8xZntdZgnXvyF0aK2kqW67RGkMQSUkhDhIwGqqjBQpx2jRQTGTpPePiHHX+aXDK5qmDkWEAdKiTHD/4Hv2drlqYm3aRIAgi+2PbHKBDaBdpN2/4+tu32CeB/Bq60rr/eAmY/SW92tdgRMLANXFx3NXkPuNwBhp50yZAcyU9LKJWA9zP6pgIweAv0rblz65zj9AHI0ayWb4CDQ2CsTNnrHu8O987t357O/H4ACWtyfeF0LBUAAAAGYktHRAAAAE0AmH/VvpoAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQflAQQIFQuWK/BSAAAAxUlEQVQoz6WSORIBARBFX491hgnFAiXhAAKZC7iBSIJIJERGCYRi5QYOIBU5iCqBfZuaaTFjHT/+v7tf9Zd1NaMEkEFA+YOqQYMeie6MZH/+dog/aIQ4tEs42w32cIFZn/zAGEvB5QxxC1cMEPFZws8Y7c4U97hl18gjgEgE1eudTV6+QwS7N0dNi32zAO7pw0YgVhkRTWc5r5Y4g/L3jA7KRYSoaSFP+N6e6iqYtTHhTI5Tq4h63zLeuQxQL0DlHkJ/dfUGcQhCbhjsDf0AAAAASUVORK5CYII=)]()
 - Back-end : <br />
     [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat&logo=mysql&logoColor=4479A1)]()
     [![Docker](https://img.shields.io/badge/-Docker-eee?style=flat&logo=docker&logoColor=2496ed)]()
@@ -40,6 +39,7 @@ class Kento : SoftwareEngineer
     [![Redis](http://img.shields.io/badge/-Redis-eee?style=flat&logo=redis&logoColor=DC382D)]()
     [![gRPC](http://img.shields.io/badge/-gRPC-eee?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAABhWlDQ1BJQ0MgcHJvZmlsZQAAKJF9kT1Iw1AUhU/TlhapONhBxCFDdbIgKuIoVSyChdJWaNXB5KV/0KQhSXFxFFwLDv4sVh1cnHV1cBUEwR8QNzcnRRcp8b6k0CLGC4/3cd49h/fuA4RWjalmYAJQNcvIJBNivrAqhl7hQwBhBCFKzNRT2cUcPOvrnrqp7uI8y7vvz+pXiiYDfCLxHNMNi3iDeGbT0jnvE0dZRVKIz4nHDbog8SPXZZffOJcdFnhm1Mhl5omjxGK5h+UeZhVDJZ4mjimqRvlC3mWF8xZntdZgnXvyF0aK2kqW67RGkMQSUkhDhIwGqqjBQpx2jRQTGTpPePiHHX+aXDK5qmDkWEAdKiTHD/4Hv2drlqYm3aRIAgi+2PbHKBDaBdpN2/4+tu32CeB/Bq60rr/eAmY/SW92tdgRMLANXFx3NXkPuNwBhp50yZAcyU9LKJWA9zP6pgIweAv0rblz65zj9AHI0ayWb4CDQ2CsTNnrHu8O987t357O/H4ACWtyfeF0LBUAAAAGYktHRAAAAE0AmH/VvpoAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQflAQQICBYKQfCXAAAAsUlEQVQoz+3QIW4CYRDF8d9+wZcjoElIULVgWtulcg9QWwgWsYJgqUDWgmXTE0APUNHF1WAxJHjC1nxNCAkXaPiLSV5m5r3J8P9JWouijiYm+MYeT1jhgAfMcI8uXsss/Qx4wyNyfEXDAY5wqqpnvESTHoJYtuigEZNgiBqEJBnj/ezKbmtR5KHM0hzraFCPzY+/qVNVjcosnZ8trtAIURSYYhP1D9oX/7jDEjv03bjOL16RKA6+8njcAAAAAElFTkSuQmCC)]()
 - IDE & Tools : <br />
+    [![Rider](http://img.shields.io/badge/-Rider-eee?style=flat&logo=rider&logoColor=000000)]()
     [![VSCode](http://img.shields.io/badge/-VSCode-eee?style=flat&logo=visual-studio-code&logoColor=007ACC)]()
     [![Git](http://img.shields.io/badge/-Git-eee?style=flat&logo=git&logoColor=F05032)]()
     [![Jenkins](http://img.shields.io/badge/-Jenkins-eee?style=flat&logo=jenkins&logoColor=D24939)]()
