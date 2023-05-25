@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/29852936/103519807-81e33700-4eb9-11eb-8f4a-853950288dcf.png" width=100% />
+<!-- <img src="https://user-images.githubusercontent.com/29852936/103519807-81e33700-4eb9-11eb-8f4a-853950288dcf.png" width=100% /> -->
 
 ### Hi, I'm Kento 👋
 
@@ -61,4 +61,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://user-images.githubusercontent.com/29852936/103519808-827bcd80-4eb9-11eb-87e9-29d8729ed7f4.png" width=100% />
+<!-- <img src="https://user-images.githubusercontent.com/29852936/103519808-827bcd80-4eb9-11eb-87e9-29d8729ed7f4.png" width=100% /> -->
